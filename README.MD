@@ -21,15 +21,6 @@ graph LR
     D -->|Benchmark| E
     end
 ```
-
-### 一 主流编译器特性支持（C++23）
-###   CMake
-### 二 .clang-format
-### 三 Google Benchmark集成
-### 四 .clangd配置 (支持C++20+)
-
-### 六 常用工具链
-### 八 VSCode配置建议(非必要)
 ***
 ## 学习资源推荐
 1. **编译器资源管理器**：https://godbolt.org/（实时查看汇编输出）
